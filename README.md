@@ -31,7 +31,7 @@ This project is a simple chatbot application that uses OpenAI's GPT-3.5-turbo mo
 1. Clone the repository:
 ```
 git clone https://github.com/nickklos10/LLM-chatbot
-cd llm-chatbot
+cd LLM-chatbot
 ```
 2. Install dependencies:
 ```
