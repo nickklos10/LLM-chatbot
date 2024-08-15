@@ -1,6 +1,6 @@
 # LLM Chatbot
 
-This project is a simple chatbot application that uses OpenAI's GPT-3.5-turbo model to generate responses to user input. The chatbot runs on a Node.js server and interacts with a front-end interface where users can input their messages.
+This project is a chatbot application that uses OpenAI's GPT-3.5-turbo model to generate responses to user input. The chatbot runs on a Node.js server and interacts with a front-end interface where users can input their messages.
 
 
 ### Features
