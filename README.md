@@ -80,7 +80,4 @@ to something like:
 { role: 'system', content: 'You are a witty and humorous assistant.' }
 ```
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
    
