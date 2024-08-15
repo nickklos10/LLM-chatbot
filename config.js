@@ -1,3 +1,3 @@
 module.exports = {
-    OpenAIAPIKey: 'Your own API key'
+    OpenAIAPIKey: 'your-openai-api-key'
 };
