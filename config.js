@@ -1,3 +1,1 @@
-module.exports = {
-    OpenAIAPIKey: 'your-openai-api-key'
-};
+export const OpenAIAPIKey = "your-openai-api-key";
