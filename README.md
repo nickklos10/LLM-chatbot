@@ -39,9 +39,7 @@ npm install
 ```
 3. Set up your OpenAI API key in the config.js file:
 ```
-module.exports = {
-    OpenAIAPIKey: 'your-openai-api-key'
-};
+export const OpenAIAPIKey = "your-openai-api-key";
 ```
 4. Start the server:
 ```
